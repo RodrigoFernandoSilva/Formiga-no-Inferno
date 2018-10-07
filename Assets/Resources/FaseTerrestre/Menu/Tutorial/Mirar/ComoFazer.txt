@@ -1,0 +1,1 @@
+﻿Seta para cima faz o personagem mirar para cima, é possivel faer isso abaixado. Para voltar ao normal basta soltar ela.

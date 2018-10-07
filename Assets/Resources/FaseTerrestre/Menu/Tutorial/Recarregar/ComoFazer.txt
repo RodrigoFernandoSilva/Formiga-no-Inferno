@@ -1,0 +1,1 @@
+﻿Tecla <R>, o personagem NÃO recarrega sozinho quando a munição acaba.

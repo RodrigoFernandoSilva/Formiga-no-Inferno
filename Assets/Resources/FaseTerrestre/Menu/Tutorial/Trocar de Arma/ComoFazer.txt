@@ -1,0 +1,1 @@
+﻿Teclas <1>, <2> e <3> troca de arma, a pistola é a unica que tem munição infinita.

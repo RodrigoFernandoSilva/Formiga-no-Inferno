@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7cb62916080b00349a71bb65c859ef1d
+timeCreated: 1532633431
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundPrefab: {fileID: 1907078616491018, guid: 0dd456e343a50b548a84ee864ccc5166,
+      type: 2}
+  - municaoPrefab: {instanceID: 0}
+  - claraoPrefab: {instanceID: 0}
+  - carregadorPrefab: {instanceID: 0}
+  - canoDaArma: {instanceID: 0}
+  - carregadorBone: {instanceID: 0}
+  - carregador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

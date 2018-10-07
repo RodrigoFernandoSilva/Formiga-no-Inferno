@@ -1,0 +1,2 @@
+﻿Quando estiver correndo aperte a seta para baixo. Em quanto estiver deslizando, a cadencia de tiro é aumentada e, o personagem só levanta quando acaba a munição ou quando ele para de atirar.
+	Se na hora de deslizar for soltado o <Shift> e logo em seguida aperta a seta para baixo no tempo certo, o jogador poderá controlar a direção do tiro.

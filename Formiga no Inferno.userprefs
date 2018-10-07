@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\FaseTerrestre\Personagens\Jose\Scripts\JoseComportamento.cs">
+    <Files>
+      <File FileName="Assets\Resources\FaseTerrestre\Scripts 1\PontoDeInimigos.cs" Line="47" Column="43" />
+      <File FileName="Assets\Resources\FaseTerrestre\Personagens\Inimiga\Scripts\InimigaIA.cs" Line="212" Column="3" />
+      <File FileName="Assets\Resources\FaseTerrestre\Personagens\Jose\Scripts\JoseComportamento.cs" Line="98" Column="22" />
+      <File FileName="Assets\Resources\FaseTerrestre\Personagens\Armas\Scripts\MudarPai.cs" Line="13" Column="4" />
+      <File FileName="Assets\Resources\FaseTerrestre\Scripts\CameraFollow.cs" Line="45" Column="19" />
+      <File FileName="Assets\Resources\FaseTerrestre\Personagens\Armas\Scripts\Armas.cs" Line="34" Column="29" />
+      <File FileName="Assets\Resources\FaseTerrestre\Municoes\Scripts\Municoes.cs" Line="41" Column="43" />
+      <File FileName="Assets\Resources\FaseTerrestre\Personagens\Jose\Scripts\JoseAnimation.cs" Line="14" Column="47" />
+      <File FileName="Assets\Resources\FaseTerrestre\Personagens\Inimiga\Scripts\InimigaAnimator.cs" Line="5" Column="29" />
+      <File FileName="Assets\Resources\FaseTerrestre\Scripts\TocarSons.cs" Line="21" Column="3" />
+      <File FileName="Assets\Resources\FaseTerrestre\Menu\Scripts\TrocarDeTela.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
